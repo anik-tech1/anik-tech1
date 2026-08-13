@@ -1,8 +1,9 @@
+
 ## 👋 Hi, I'm Aniket Biswas
 
 I am an Artificial Intelligence and Machine Learning student aiming to build innovative, data-driven solutions while continuously enhancing my technical expertise.
 
-### 💻 What I Do
+###  What I Do
 
 * **AI & Software Development:** I am currently pursuing my Bachelor of Technology in CSE AIML at Sanskriti University. My core programming languages are Python, C++, and Java. I also build models using frameworks like TensorFlow, PyTorch, Scikit-learn, and Keras.
 
@@ -14,13 +15,14 @@ I am an Artificial Intelligence and Machine Learning student aiming to build inn
 
 
 
-### ⚡ Outside of the IDE
+### Outside of the IDE
 
 When I step away from my code editor, I'm usually:
 
-* 🎮 Grinding tactical shooters like Valorant and Counter-Strike.
-* 🏋️‍♂️ Hitting the gym for a heavy leg day and focusing on weighted squats.
-* 🏎️ Geeking out over automotive tuning and sedans like the VW Virtus.
-* 🍳 Taking over my kitchen to cook up one-pot meals or perfect my vanilla cake recipe (strictly without vinegar or lemon juice!).
+*  Grinding tactical shooters like Valorant and Counter-Strike.
+*  Hitting the gym for a heavy leg day and focusing on weighted squats.
+*  Geeking out over automotive tuning and sedans like the VW Virtus.
+*  Taking over my kitchen to cook up one-pot meals or perfect my vanilla cake recipe (strictly without vinegar or lemon juice!).
+*  And a Nerd in Terms of DC , Marvel or Invincible,Etc. 
 
-> **Let's Connect:** I am always open to collaborating on open-source projects, discussing DBMS optimization, or talking about game design. Feel free to reach out!
+> **Let's Connect:** I am always open to collaborating on open-source projects, working with domain languages , or talking about game design. Feel free to reach out!
