@@ -1,4 +1,4 @@
-![My Profile Banner](https://github.com/user-attachments/assets/7d24ed69-db9c-4c44-9407-4b725e0948cb)
+![My Profile Banner](https://github.com/user-attachments/assets/aaf47f75-cd62-4092-be7b-40db13230fdb)
 ## 👋 Hi, I'm Aniket Biswas
 
 I am an Artificial Intelligence and Machine Learning student aiming to build innovative, data-driven solutions while continuously enhancing my technical expertise.
