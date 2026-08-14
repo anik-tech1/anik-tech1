@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e0a8f4d6-1001-4a81-b1b7-3a9eb30d60ff" alt="Aniket Biswas Header" width="100%" />
 </div>
+
 ---
 I am an Artificial Intelligence and Machine Learning student aiming to build innovative, data-driven solutions while continuously enhancing my technical expertise.
 
