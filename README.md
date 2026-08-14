@@ -14,6 +14,10 @@ I am an Artificial Intelligence and Machine Learning student aiming to build inn
 
 
 * **Game Development:** I pursue game development as a creative extension of my technical skills. I have developed a small 3D FPS game focusing on core mechanics and level design using the Godot engine. Currently, I am applying my Godot skills to build *Games*
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1bcf8150-8a10-4ee7-9a2e-0caf697f5b1e" alt="Aniket Biswas Header" width="100%" />
+</div>
   
 ### My TechStack
 <p align="left">
@@ -47,10 +51,6 @@ When I step away from my code editor, I'm usually:
 *  Taking over my kitchen to cook up one-pot meals or perfect my vanilla cake recipe (strictly without vinegar or lemon juice!).
 *  And a Nerd in Terms of DC , Marvel or Invincible,Etc.
 
-### STATS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anik-tech1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-tech1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+
 
 > **Let's Connect:** I am always open to collaborating on open-source projects, working with domain languages , or talking about game design. Feel free to reach out!
