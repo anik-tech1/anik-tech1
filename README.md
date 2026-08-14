@@ -1,4 +1,6 @@
-![My Profile Banner](https://github.com/user-attachments/assets/140cd962-dcd7-4a36-8e74-6a7fd0d83eef)
+![My Profile Banner](https://github.com/user-attachments/assets/e0a8f4d6-1001-4a81-b1b7-3a9eb30d60ff)
+---
+I am an Artificial Intelligence and Machine Learning student aiming to build innovative, data-driven solutions while continuously enhancing my technical expertise.
 
 ###  What I Do
 
